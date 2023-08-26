@@ -117,4 +117,5 @@ Special thanks to the following individuals:
 - Huge thanks to L3viathan who without their help I couldnt have easily patched the arg parser for click
 - Tachyondecay for pointing me in the right direction for click documentation
 - Liu Liu for the work on the DrawThings app. Read more about some of the work he has done @ https://engineering.drawthings.ai/
+- Clarityai engeering for their guide on using poetry + pipx to create a CLI tool @ https://medium.com/clarityai-engineering/how-to-create-and-distribute-a-minimalist-cli-tool-with-python-poetry-click-and-pipx-c0580af4c026
 
