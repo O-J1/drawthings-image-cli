@@ -2,7 +2,7 @@
 
 The DrawThings Image CLI (*dtcli*) is a command-line tool that is used to generate images on devices running the Mac and IOS app [DrawThings](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820). 
 
-This tool is built using Python and the Click library, making it easy to use and configure. This was first real Python project so there may be some lumps 😆
+This tool is built using Python and the Click library, making it easy to use and configure. This was my first real Python project so there may be some lumps 😆
 
 ## Installation
 
@@ -10,8 +10,8 @@ To install the DrawThings Image CLI  you have 2 options, follow these steps:
 
 ### Option 1
 1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Install the required dependencies using Poetry:
+2. Navigate to the project directory and open the terminal at said location:
+3. Install the required dependencies using the following:
 
    ```
    poetry install
