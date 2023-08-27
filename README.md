@@ -12,17 +12,17 @@ To install the DrawThings Image CLI  you have 2 options, follow these steps:
 1. Clone this repository to your local machine.
 2. Install poetry [(refer to their documentation)](https://python-poetry.org/docs/#installation)
 2. Navigate to the project directory and open the terminal at said location:
-3. Install the required dependencies using the following:
+3. Install the required dependencies using the followping:
 
    ```
    poetry install
    ```
 ### Option 2 
 1. Install `pipx` [via their simple documentation](https://github.com/pypa/pipx#on-windows-install-via-pip-requires-pip-190-or-later)
-2. Run `pipx install git+https://github.com/o-j1/drawthings-image-client.git`
+2. Run `pipx install git+https://github.com/O-J1/drawthings-image-cli.git`
 3. If everything goes well you will see:
 
-    `These apps are now globally available — dtcli done! ✨ 🌟 ✨`
+    `These apps are now globally available — dtcli.exe done! ✨ 🌟 ✨`
 
 This means that dtcli is now a proper command line tool that you can use independently of Poetry and is isnt polluting your global python install thanks to pipx!
 
