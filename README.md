@@ -10,6 +10,7 @@ To install the DrawThings Image CLI  you have 2 options, follow these steps:
 
 ### Option 1
 1. Clone this repository to your local machine.
+2. Install poetry [(refer to their documentation)](https://python-poetry.org/docs/#installation)
 2. Navigate to the project directory and open the terminal at said location:
 3. Install the required dependencies using the following:
 
